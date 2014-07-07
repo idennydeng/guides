@@ -46,7 +46,7 @@
     "nonew": false,
     "noarg": true,
     "bitwise": false,
-    "plusplus": true,
+    "plusplus": false,
     "eqnull": true,
     "eqeqeq": true,
     "evil": false,
